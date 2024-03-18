@@ -1,0 +1,60 @@
+
+
+.header{
+  height: 100px;
+  background-color: blue;
+  background-image: url(assets/ruimte.PNG);
+  color: white;
+  font-size: 40px;
+  padding-top: 20px;
+  padding-left: 20%;
+  font-family: fantasy,Arial, Helvetica, sans-serif;
+}
+.navbar{
+  font-size: smaller;
+  padding-left: 5%;
+  
+ 
+  
+  font-family: 'Times New Roman', Times, serif,Arial, Helvetica, sans-serif;
+  
+
+  
+  height: 55px;
+  
+}
+.nav-link{
+  color: white;
+  background-color: rgb(18, 17, 19);
+  text-align: center;
+  justify-content: center;
+  
+  
+}
+.navbar-brand{
+  color: white;
+  
+}
+.bi{
+  background-color: rgb(2, 2, 63);
+  
+}
+.footer{
+  background-color: aqua;
+  height: 150px;
+  background-image: url(assets/ruimte.PNG);
+}
+.bimage{
+  background-image: url(assets/ruimte.PNG);
+}
+
+.h5{
+  text-align: center;
+}
+.p{
+  padding-bottom: 30px;
+  font-size: large;
+}
+.img-fluid{
+  max-width: 400px;
+}
